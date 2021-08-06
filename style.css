@@ -1,0 +1,32 @@
+.body{display: inline-block;}
+
+.contents{
+    display: inline-flex;
+    float: right;
+    padding: 25%;
+    padding-top: 5% ;
+    padding-bottom:5% ;
+
+}
+.letter{
+    padding: 5%;
+    padding-top: 5% ;
+    padding-bottom:5% ;
+    font-size: 18px;
+    font-family: Helvetica, sans-serif;
+    border: 1px;
+    box-shadow: -11px 11px 12px 6px grey;
+}
+
+.img{
+    display: block;
+    
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#test{
+    padding: 20%;
+    box-shadow: 10px 10px green;
+}
